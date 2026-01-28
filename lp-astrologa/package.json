@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.56.0",
     "eslint-config-next": "^16.1.6",
     "gsap": "^3.12.5",
     "isotope": "^1.0.0-alpha.3",
