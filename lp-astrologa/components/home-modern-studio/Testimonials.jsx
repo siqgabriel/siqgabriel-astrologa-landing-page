@@ -72,7 +72,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “Milena tem sido uma guia incrível para minha vida. As consultas de tarot realmente trouxeram clareza para decisões difíceis que eu tinha que tomar. Me sinto muito mais equilibrado agora!”
+                      “Ju tem sido uma guia incrível para minha vida. As consultas de tarot realmente trouxeram clareza para decisões difíceis que eu tinha que tomar. Me sinto muito mais equilibrado agora!”
                     </p>
                   </div>
                 </div>
@@ -98,7 +98,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Passei por um período de bloqueios emocionais e, após minha consulta, senti uma transformação profunda. Milena trouxe muita paz e luz para a minha vida. Recomendo muito! "
+                      “ Passei por um período de bloqueios emocionais e, após minha consulta, senti uma transformação profunda. Ju trouxe muita paz e luz para a minha vida. Recomendo muito! "
                     </p>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Fiquei muito impressionada com a precisão da leitura das cartas. Milena foi muito acolhedora e me ajudou a encontrar o caminho certo para minha vida amorosa. Recomendo de coração! ”
+                      “ Fiquei muito impressionada com a precisão da leitura das cartas. Ju foi muito acolhedora e me ajudou a encontrar o caminho certo para minha vida amorosa. Recomendo de coração! ”
                     </p>
                   </div>
                 </div>
@@ -150,7 +150,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Nunca imaginei que uma consulta espiritual poderia trazer tanto alívio para o meu espírito. Milena me ajudou a desbloquear minha energia e hoje minha vida está mais tranquila e harmoniosa. "
+                      “ Nunca imaginei que uma consulta espiritual poderia trazer tanto alívio para o meu espírito. Ju me ajudou a desbloquear minha energia e hoje minha vida está mais tranquila e harmoniosa. "
                     </p>
                   </div>
                 </div>
@@ -178,7 +178,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Estava em um momento muito difícil da minha vida e a ajuda espiritual que recebi fez toda a diferença. Milena me ajudou a ver tudo sob uma nova perspectiva.  Sou muito grata a ela!”
+                      “ Estava em um momento muito difícil da minha vida e a ajuda espiritual que recebi fez toda a diferença. Ju me ajudou a ver tudo sob uma nova perspectiva.  Sou muito grata a ela!”
                     </p>
                   </div>
                 </div>
@@ -204,7 +204,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Milena é uma verdadeira fonte de sabedoria. Com a ajuda dos orixás, consegui superar um relacionamento que estava me fazendo mal. Sou muito grato por tudo o que ela me ensinou. ”
+                      “ Ju é uma verdadeira fonte de sabedoria. Com a ajuda dos orixás, consegui superar um relacionamento que estava me fazendo mal. Sou muito grato por tudo o que ela me ensinou. ”
                     </p>
                   </div>
                 </div>
@@ -230,7 +230,7 @@ function Testimonials() {
                 <div className="cont">
                   <div className="text">
                     <p>
-                      “ Minha vida amorosa estava em crise e depois da consulta com Milena, as coisas começaram a mudar. Senti uma verdadeira conexão espiritual. É incrível como ela consegue trazer paz. ”
+                      “ Minha vida amorosa estava em crise e depois da consulta com Ju, as coisas começaram a mudar. Senti uma verdadeira conexão espiritual. É incrível como ela consegue trazer paz. ”
                     </p>
                   </div>
                 </div>

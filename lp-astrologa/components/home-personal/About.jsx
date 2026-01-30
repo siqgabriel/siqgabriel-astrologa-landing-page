@@ -39,7 +39,7 @@ function About() {
                     Você não está aqui por acaso.
                   </strong>
                   <br />
-                  Milena trabalha com orientação espiritual personalizada para quem sente que algo precisa mudar, mas ainda não sabe por onde começar. Cada consulta é um espaço seguro de escuta, clareza e direcionamento, respeitando seu momento, sua história e suas escolhas.
+                  Trabalho com orientação espiritual personalizada para quem sente que algo precisa mudar, mas ainda não sabe por onde começar. Cada consulta é um espaço seguro de escuta, clareza e direcionamento, respeitando seu momento, sua história e suas escolhas.
                 </p>
 
                 <div className="numbers mt-50">
@@ -47,7 +47,7 @@ function About() {
                     <div className="col-md-6">
                       <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                         <div>
-                          <h3 className="fw-300 mb-10">+de 5 ANOS</h3>
+                          <h3 className="fw-300 mb-10">+de 10 ANOS</h3>
                           <h6 className="p-color sub-title">
                             de atendimentos espirituais
                           </h6>
