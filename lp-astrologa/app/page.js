@@ -15,7 +15,7 @@ import Services from '@/components/home-personal/Services';
 import Portfolio from '@/components/home-personal/Portfolio';
 
 export const metadata = {
-  title: 'Astróloga da energia – "Amor, tarô e abertura de caminhos."',
+  title: 'Luz Amor',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

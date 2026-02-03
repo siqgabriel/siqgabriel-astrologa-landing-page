@@ -67,7 +67,7 @@ function About() {
 
                 <div className="d-flex align-items-center mt-60">
                   <a
-                    href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    href="https://www.instagram.com/ju.luz.amor/"
                     target='_blank'
                     className="butn butn-md butn-bord1 radius-30"
                     style={{ textAlign: 'center' }}

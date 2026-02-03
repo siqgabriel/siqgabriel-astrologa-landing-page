@@ -16,7 +16,7 @@ function Footer() {
         <div className="pt-30 pb-30 bord-thin-top">
           <div className="text-center">
             <p className="fz-14" style={{ color: '#ffffff' }}>
-              Copyright Astróloga da Energia | Todos os direitos reservados. © 2026 Powered by{' '}
+              Copyright Luz Amor | Todos os direitos reservados. © 2026 Powered by{' '}
               <span className="underline main-color">
                 <a href="https://operion.com.br" target="_blank">
                   OPERION

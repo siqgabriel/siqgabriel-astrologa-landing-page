@@ -33,7 +33,7 @@ function Services() {
                 </p>
               </div>
               <div className='flex align-items-center mt-40 justify-content-between'>
-                <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                   target='_blank'
                   className="">
                   <span className="ti-arrow-top-right"></span>
@@ -61,7 +61,7 @@ function Services() {
                 </p>
               </div>
               <div className='flex align-items-center mt-40 justify-content-between' style={{ maxHeight: '300px' }}>
-                <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                   target='_blank'
                   className="">
                   <span className="ti-arrow-top-right"></span>
@@ -89,7 +89,7 @@ function Services() {
                 </p>
               </div>
               <div className='flex align-items-center mt-40 justify-content-between'>
-                <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                   target='_blank'
                   className="">
                   <span className="ti-arrow-top-right"></span>
@@ -116,7 +116,7 @@ function Services() {
                 </p>
               </div>
               <div className='flex align-items-center mt-40 justify-content-between'>
-                <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                   target='_blank'
                   className="">
                   <span className="ti-arrow-top-right"></span>
@@ -142,7 +142,7 @@ function Services() {
                 </p>
               </div>
               <div className='flex align-items-center mt-40 justify-content-between'>
-                <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                   target='_blank'
                   className="">
                   <span className="ti-arrow-top-right"></span>

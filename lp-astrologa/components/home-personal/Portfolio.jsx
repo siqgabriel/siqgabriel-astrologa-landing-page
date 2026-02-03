@@ -74,7 +74,7 @@ function Portfolio() {
                     </h3>
                   </div>
                   <div>
-                    <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
                       <span className="text sub-title">
@@ -103,7 +103,7 @@ function Portfolio() {
                     </h3>
                   </div>
                   <div>
-                    <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
                       <span className="text sub-title">
@@ -132,7 +132,7 @@ function Portfolio() {
                     </h3>
                   </div>
                   <div>
-                    <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
                       <span className="text sub-title">
@@ -161,7 +161,7 @@ function Portfolio() {
                     </h3>
                   </div>
                   <div>
-                    <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
                       <span className="text sub-title">
@@ -191,7 +191,7 @@ function Portfolio() {
                   </div>
                   <div>
 
-                    <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+                    <a href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }} >
                       <span className="text sub-title">
@@ -220,10 +220,10 @@ function Portfolio() {
           </p>
           <div className="d-flex align-items-center mt-10">
             <a
-              href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+              href="https://wa.me/5511981884999?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
               target='_blank'
               className="butn butn-md butn-bord1 radius-30"
-              style={{ textAlign: 'center', fontSize:'18px' }}
+              style={{ textAlign: 'center', fontSize: '18px' }}
             >
               Agende uma consulta!
               <i className="fab fa-whatsapp" style={{ fontSize: '20px', marginLeft: '5px' }}></i>
