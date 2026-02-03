@@ -26,7 +26,7 @@ function Header() {
     >
       <div className="container ontop">
         <div className="row">
-          <div className="col-10 col-lg-8">
+          <div className="col-15 col-lg-8">
             <div className="caption">
               <h6 className="mb-15">
                 <span className="icon-img-30">

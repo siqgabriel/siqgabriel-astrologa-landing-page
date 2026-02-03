@@ -8,7 +8,7 @@ function Footer() {
 
           <div className="logo lg-mb80" style={{ width: '300px' }}>
             <a className="logo text-center" href="#" style={{ width: '100%', padding: '10px 0', fontSize: '30px', color: 'white' }}>
-              JU LUZ AMOR
+              LUZ AMOR
             </a>
           </div>
 
