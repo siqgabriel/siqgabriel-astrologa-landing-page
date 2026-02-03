@@ -6,8 +6,8 @@ function Footer() {
       <div className="container ontop">
         <div className="row justify-content-center align-items-center" style={{height:'100px'}}>
 
-          <div className="logo md-mb80" style={{ width: '300px' }}>
-            <a className="logo" href="#" style={{ width: '200px', padding: '10px 0', fontSize: '30px', color: 'white' }}>
+          <div className="logo lg-mb80" style={{ width: '300px' }}>
+            <a className="logo text-center" href="#" style={{ width: '100%', padding: '10px 0', fontSize: '30px', color: 'white' }}>
               JU LUZ AMOR
             </a>
           </div>

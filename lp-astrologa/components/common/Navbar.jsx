@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg bord blur">
       <div className="container o-hidden">
         <a className="logo" href="#" style={{width:'200px', padding:'10px 0', fontSize:'30px', color:'white' }}>
-          JU LUZ AMOR
+          LUZ AMOR
         </a>
 
         <div

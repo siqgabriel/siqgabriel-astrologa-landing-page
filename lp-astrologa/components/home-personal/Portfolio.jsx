@@ -55,7 +55,7 @@ function Portfolio() {
               <span className="sub-title mb-5">Meus serviços</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Serviços <span className="fw-200">personalizados.</span>
+                  Para quem <span className="fw-200">é meu atendimento? </span>
                 </span>
               </h3>
             </div>
@@ -66,16 +66,14 @@ function Portfolio() {
             <div className="row">
               <div className="col-lg-5">
                 <div className="cont">
-                  <div>
-                    <div className="icon-img-100 mb-40">
-                      <img src="/assets/imgs/serv-icons/1.png" alt="" />
-                    </div>
-                    <h4>Consultas de Tarot e Búzios</h4>
+                  <div className=''>
+                    <h3 className="fw-600 fz-30 fz-xs-20 text-u d-rotate wow">
+                      <span className="rotate-text">
+                        <span className="fw-200">Mulheres que sentem </span>bloqueios emocionais ou amorosos
+                      </span>
+                    </h3>
                   </div>
                   <div>
-                    <p>
-                      Leituras profundas para compreender situações, sentimentos e caminhos possíveis.
-                    </p>
                     <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
@@ -97,16 +95,14 @@ function Portfolio() {
             <div className="row">
               <div className="col-lg-5">
                 <div className="cont">
-                  <div>
-                    <div className="icon-img-100 mb-40">
-                      <img src="/assets/imgs/serv-icons/2.png" alt="" />
-                    </div>
-                    <h4>Orientação Amorosa</h4>
+                  <div className=''>
+                    <h3 className="fw-600 fz-30 fz-xs-20 text-u d-rotate wow">
+                      <span className="rotate-text">
+                        <span className="fw-200">Mulheres que querem </span> fortalecer autoestima e magnetismo pessoal
+                      </span>
+                    </h3>
                   </div>
                   <div>
-                    <p>
-                      Clareza sobre vínculos, sentimentos, reconciliações e decisões no amor.
-                    </p>
                     <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
@@ -128,16 +124,14 @@ function Portfolio() {
             <div className="row">
               <div className="col-lg-5">
                 <div className="cont">
-                  <div>
-                    <div className="icon-img-100 mb-40">
-                      <img src="/assets/imgs/serv-icons/3.png" alt="" />
-                    </div>
-                    <h4>Abertura de Caminhos</h4>
+                  <div className=''>
+                    <h3 className="fw-600 fz-30 fz-xs-20 text-u d-rotate wow">
+                      <span className="rotate-text">
+                        <span className="fw-200"> Mulheres que desejam </span> se posicionar com mais segurança e clareza
+                      </span>
+                    </h3>
                   </div>
                   <div>
-                    <p>
-                      Direcionamento espiritual quando tudo parece travado ou sem avanço.
-                    </p>
                     <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
@@ -159,16 +153,14 @@ function Portfolio() {
             <div className="row">
               <div className="col-lg-5">
                 <div className="cont">
-                  <div>
-                    <div className="icon-img-100 mb-40">
-                      <img src="/assets/imgs/serv-icons/4.png" alt="" />
-                    </div>
-                    <h4>Limpeza e Equilíbrio Energético</h4>
+                  <div className=''>
+                    <h3 className="fw-600 fz-30 fz-xs-20 text-u d-rotate wow">
+                      <span className="rotate-text">
+                        <span className="fw-200">Mulheres que buscam </span> reconexão espiritual sem perda de racionalidade
+                      </span>
+                    </h3>
                   </div>
                   <div>
-                    <p>
-                      Indicado para cansaço constante, peso emocional e sensação de estagnação.
-                    </p>
                     <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }}>
@@ -190,16 +182,15 @@ function Portfolio() {
             <div className="row">
               <div className="col-lg-5">
                 <div className="cont">
-                  <div>
-                    <div className="icon-img-100 mb-40">
-                      <img src="/assets/imgs/serv-icons/5.png" alt="" />
-                    </div>
-                    <h4>Consultoria Espiritual Personalizada</h4>
+                  <div className=''>
+                    <h3 className="fw-600 fz-30 fz-xs-20 text-u d-rotate wow">
+                      <span className="rotate-text">
+                        <span className="fw-200">Mulheres prontas para </span> sair de ciclos repetitivos e avançar
+                      </span>
+                    </h3>
                   </div>
                   <div>
-                    <p>
-                      Atendimento focado na sua história, desafios e momento de vida.
-                    </p>
+
                     <a href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
                       target='_blank'
                       className="mt-15" style={{ backgroundColor: '#ffffff', padding: '10px', borderRadius: '50px' }} >
@@ -220,11 +211,24 @@ function Portfolio() {
         </div>
       </div>
       <div className="sec-bottom mt-100 mb-100">
-        <div className="main-bg-card1 d-flex align-items-center">
-          <h6 className="fz-20 fw-400">
-            Atendimentos <span className="fw-600"> presenciais e online,</span>
-            sempre com horário agendado
+        <div className="main-bg-card1 flex align-items-center flex-column" style={{ padding: '0 20px' }}>
+          <h6 className="fz-30 fw-400 text-center">
+            Atendimento <span className="fw-600"> individual e personalizado</span>
           </h6>
+          <p className='text-center wrap'>
+            Clique no botão abaixo para agendar seu atendimento com a Day e iniciar seu processo de alinhamento, cura e expansão
+          </p>
+          <div className="d-flex align-items-center mt-10">
+            <a
+              href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta."
+              target='_blank'
+              className="butn butn-md butn-bord1 radius-30"
+              style={{ textAlign: 'center', fontSize:'18px' }}
+            >
+              Agende uma consulta!
+              <i className="fab fa-whatsapp" style={{ fontSize: '20px', marginLeft: '5px' }}></i>
+            </a>
+          </div>
         </div>
       </div>
     </section>

@@ -26,34 +26,33 @@ function Header() {
     >
       <div className="container ontop">
         <div className="row">
-          <div className="col-lg-7">
+          <div className="col-10 col-lg-8">
             <div className="caption">
               <h6 className="mb-15">
                 <span className="icon-img-30">
                   <img src="/assets/imgs/header/star.png" alt="" />
                 </span>{' '}
-                Clareza espiritual agora
+                Terapias Energéticas e Espirituais
               </h6>
               <h1 className="fw-700 mb-10">
-                Nada muda
+                Luz Amor é
                 <br />
-                por{' '}
-                <span className="main-color">acaso.</span>
+                um espaço{' '}dedicado ao{' '}
+                <span className="main-color">{'  '}cuidado energético</span>
               </h1>
               <h3>
-                Descubra o que está <br />
-                travando a sua vida!
+                espiritual e emocional, com 20 anos de atuação
               </h3>
               <div className="row">
                 <div style={{ width: "100%" }}>
-                  <div className="text mt-30">
+                  {/* <div className="text mt-30">
                     <p className='p1'>
                       Quando tudo parece confuso, emoções, relacionamentos, decisões ou caminhos, a orientação certa traz clareza, direção e alívio.{' '}
                       <strong>
                         Atendimento espiritual individual para entender o seu momento e seguir com mais segurança.
                       </strong>
                     </p>
-                  </div>
+                  </div> */}
                   <div className="d-flex align-items-center mt-60">
                     <a
                       href="https://wa.me/5511959997498?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20consulta." target='_blank'

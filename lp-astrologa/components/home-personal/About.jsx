@@ -8,9 +8,9 @@ function About() {
           <div className="col-lg-5 valign">
             <div className="profile-img">
               <div className="img">
-                <img src="/assets/imgs/header/astrologa1.png" alt="" />
+                <img src="/assets/imgs/header/insta.png" alt="" />
               </div>
-              <span className="icon">
+              {/* <span className="icon">
                 <img src="/assets/imgs/resume/2.png" alt="" />
               </span>
               <span className="icon">
@@ -21,7 +21,7 @@ function About() {
               </span>
               <span className="icon">
                 <img src="/assets/imgs/resume/1.png" alt="" />
-              </span>
+              </span> */}
             </div>
           </div>
           <div className="col-lg-7 valign">
@@ -29,17 +29,15 @@ function About() {
               <h6 className="sub-title main-color mb-30">Sobre mim</h6>
               <div className="text">
                 <h4 className="mb-30">
-                  Orientação espiritual{' '}
+                  Comandando pela Ju, 45 Médium Kardecista,{' '}
                   <span className="fw-200">
-                    com verdade, acolhimento e direção
+                    com especialização de 9 anos pela FUCESP, com espiritualidade consciente
                   </span>{' '}
                 </h4>
                 <p>
-                  <strong>
-                    Você não está aqui por acaso.
-                  </strong>
-                  <br />
-                  Trabalho com orientação espiritual personalizada para quem sente que algo precisa mudar, mas ainda não sabe por onde começar. Cada consulta é um espaço seguro de escuta, clareza e direcionamento, respeitando seu momento, sua história e suas escolhas.
+                  É também Reikiana nível 3B, com especialização no Japão (2024) com a técnica Zazen para atendimento à Distância
+
+                  Como Cristaloterapeuta, possui formação internacional com especializações em Nova York (2019 e 2025), integrando o uso dos cristais ao campo energético, emocional e espiritual
                 </p>
 
                 <div className="numbers mt-50">
@@ -47,7 +45,7 @@ function About() {
                     <div className="col-md-6">
                       <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                         <div>
-                          <h3 className="fw-300 mb-10">+de 10 ANOS</h3>
+                          <h3 className="fw-300 mb-10">+de 20 ANOS</h3>
                           <h6 className="p-color sub-title">
                             de atendimentos espirituais
                           </h6>
@@ -75,7 +73,7 @@ function About() {
                     style={{ textAlign: 'center' }}
                   >
                     Se você sente que precisa de respostas, este é o momento de buscar orientação.
-                    <i className="fab fa-whatsapp" style={{ fontSize: '20px', marginLeft: '5px' }}></i>
+                    <i className="fab fa-instagram" style={{ fontSize: '20px', marginLeft: '5px' }}></i>
                   </a>
                 </div>
               </div>
