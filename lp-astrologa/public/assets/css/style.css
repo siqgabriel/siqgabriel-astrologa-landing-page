@@ -2292,7 +2292,7 @@ img.left {
 }
 
 .fz-30 {
-  font-size: 30px !important;
+  font-size: 30px ;
 }
 
 .fz-35 {
@@ -3791,7 +3791,7 @@ body.loaded {
 .sub-title {
   font-size: 14px;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .title-bord {
@@ -3992,7 +3992,7 @@ body.loaded {
   position: relative;
   padding: 30px;
   border: 1px solid rgba(0, 0, 0, 0.35);
-  border-radius: 100px;
+  border-radius: 50px;
 }
 
 .about-author .profile-img .icon {
@@ -4044,7 +4044,7 @@ body.loaded {
 }
 
 .about-author .img {
-  border-radius: 100px;
+  border-radius: 50px;
   height: 680px;
   overflow: hidden;
 }
@@ -5221,7 +5221,7 @@ footer.clean-footer.crev .circle-blur {
 }
 
 .header-personal {
-  padding: 200px 0 60px;
+  padding: 300px 0 60px;
   position: relative;
   overflow: hidden;
 }
