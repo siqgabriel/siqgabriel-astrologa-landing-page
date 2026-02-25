@@ -70,11 +70,11 @@ function Header() {
         <div className="info d-flex align-items-center justify-content-end mt-100">
           <div className="item">
             <h6 className="sub-title mb-10">Email :</h6>
-            <span className="p-color">contato@juluzamor.com.br</span>
+            <span className="p-color">amorcentro99@gmail.com</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Telefone :</h6>
-            <span className="p-color">(11) 9000-0000</span>
+            <span className="p-color">(11) 98188-4999</span>
           </div>
         </div>
       </div>
