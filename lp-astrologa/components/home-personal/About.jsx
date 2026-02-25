@@ -29,25 +29,32 @@ function About() {
               <h6 className="sub-title main-color mb-30">Sobre mim</h6>
               <div className="text">
                 <h4 className="mb-30">
-                  Comandando pela Ju, 45 Médium Kardecista,{' '}
-                  <span className="fw-200">
-                    com especialização de 9 anos pela FUCESP, com espiritualidade consciente
-                  </span>{' '}
+                  <span className="fw-200">Comandando pela Ju,</span>
+                  {' '}45 Médium Kardecist.
                 </h4>
-                <p>
-                  É também Reikiana nível 3B, com especialização no Japão (2024) com a técnica Zazen para atendimento à Distância
+                <h5 className="mb-10 pt-10">
+                  Formação:
+                </h5>
+                <ul className='text'>
+                  <li>
+                    9 anos FUCESP
+                  </li>
+                  <li>
+                    2019 e 2025 CRISTALOTERAPIA em NY
+                  </li>
+                  <li>
+                    2024 Tecnica Zazen e REIKI 3b no Japão
+                  </li>
+                </ul>
 
-                  Como Cristaloterapeuta, possui formação internacional com especializações em Nova York (2019 e 2025), integrando o uso dos cristais ao campo energético, emocional e espiritual
-                </p>
-
-                <div className="numbers mt-50">
+                <div className="numbers mt-20">
                   <div className="row lg-marg">
                     <div className="col-md-6">
                       <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                         <div>
-                          <h3 className="fw-300 mb-10">+de 20 ANOS</h3>
+                          <h3 className="fw-300 mb-10">+20 ANOS</h3>
                           <h6 className="p-color sub-title">
-                            de atendimentos espirituais
+                            15 mil atendimentos
                           </h6>
                         </div>
                       </div>
