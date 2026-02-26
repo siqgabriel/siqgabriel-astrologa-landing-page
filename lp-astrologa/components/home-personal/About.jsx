@@ -30,7 +30,7 @@ function About() {
               <div className="text">
                 <h4 className="mb-30">
                   <span className="fw-200">Comandando pela Ju,</span>
-                  {' '}45 Médium Kardecist.
+                  {' '}45 Médium Kardecista.
                 </h4>
                 <h5 className="mb-10 pt-10">
                   Formação:
@@ -55,16 +55,6 @@ function About() {
                           <h3 className="fw-300 mb-10">+20 ANOS</h3>
                           <h6 className="p-color sub-title">
                             15 mil atendimentos
-                          </h6>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col-md-6">
-                      <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
-                        <div>
-                          <h3 className="fw-300 mb-10">+1.000</h3>
-                          <h6 className="p-color sub-title">
-                            consultas realizadas
                           </h6>
                         </div>
                       </div>
